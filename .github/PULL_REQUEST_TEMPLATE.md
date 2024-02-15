@@ -4,7 +4,7 @@
 ## Related Issue
 <!-- Link to the related jira ticket. -->
 
-# Type of Change
+## Type of Change
 - [ ] Bug Fix
 - [ ] Feature Addition
 - [ ] Code Refactor
@@ -13,7 +13,6 @@
 - [ ] Other (please specify)
 
 ## Changes Made
-<!-- List the key changes introduced by this pull request: -->
 
 ### Feature / Additions / Enhancements: 
 <!-- A clear and concise description of the feature or enhancement. -->
